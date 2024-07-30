@@ -23,7 +23,7 @@ function Navbar() {
       await signOut(auth);
       toast.success(
         <div>
-          <h4>👋 Korishguncha</h4>
+          <h4>Come again</h4>
         </div>,
         {
           position: "top-center",
